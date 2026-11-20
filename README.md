@@ -4,7 +4,7 @@
 In a few minutes you will have your own brand's website running on your machine, ready to grow into a backend, a desktop app and a browser extension.
 
 <p align="center">
-  <a href="https://github.com/Omega-JS-Stack/brand-template/generate">
+  <a href="https://github.com/omegajs-dev/brand-template/generate">
     <img src="https://img.shields.io/badge/Use_this_template-Create_your_brand-2ea44f?style=for-the-badge&logo=github&logoColor=white" height="56" alt="Use this template: create your brand">
   </a>
 </p>
@@ -35,5 +35,5 @@ You need Node 22 or newer and a GitHub account.
 ## What next
 
 - [OMEGA docs](https://omegajs.dev)
-- [Working in your brand](https://github.com/Omega-JS-Stack/omega/blob/main/docs/manager/brand.md)
-- [The OMEGA framework](https://github.com/Omega-JS-Stack/omega)
+- [Working in your brand](https://github.com/omegajs-dev/omega/blob/main/docs/manager/brand.md)
+- [The OMEGA framework](https://github.com/omegajs-dev/omega)
